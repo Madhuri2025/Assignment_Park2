@@ -12,8 +12,8 @@ header {
 }
 
 nav {
-  background-color: #72b0c5;
-  padding: 1.0 em;
+  background-color: #d8e1e4;
+  padding: 0.1 em;
   text-align: center;
 }
 
@@ -25,7 +25,7 @@ main {
 }
 
 footer {
-  background-color: #afb1a5;
+  background-color: #eeefe6;
   padding: 0.6em;
   text-align: center;
 }
@@ -44,6 +44,6 @@ h1 {
 }
 
 p {
-  line-height: 100%;
+  line-height: 1.5;
   text-align: justify;
 }
