@@ -1,0 +1,49 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-seri;
+  font-size: 90%;
+  color: #0b0e0e
+}
+
+header {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-seri;
+  background-color: #b8e4af;
+  padding: 0.6cm;
+  text-align: center;
+}
+
+nav {
+  background-color: #72b0c5;
+  padding: 1.0 em;
+  text-align: center;
+}
+
+main {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-seri;
+  background-color: #b4cbc3;
+  padding: 0.6cm;
+  font-size: 120%;
+}
+
+footer {
+  background-color: #afb1a5;
+  padding: 0.6em;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  padding: 0.6em;
+  width: 200%;
+}
+
+h1 {
+  font-size: 300%;
+  text-align: left;
+  font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #000000
+}
+
+p {
+  line-height: 100%;
+  text-align: justify;
+}
